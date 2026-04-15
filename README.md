@@ -59,6 +59,8 @@ MONGODB_URI=
 NODE_ENV=production
 # Set the environment for Node.js. Typical values are "development" or "production".
 
+```
+
 📚 Technologies Used
 Front-end
 
