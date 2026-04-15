@@ -93,22 +93,25 @@ Back-end
 
     Go to the project directory
 
-    bash
-    1 cd ryu
+    ```bash
+    1 cd ryu```
+
 
     Install dependencies
-    1 npm install
+
+    ```bash
+    1 npm install```
 
 
     Start the server
 
-    bash
-    1 npm run dev
+    ```bash
+    1 npm run dev```
 
     Open your browser
 
-    1 http://localhost:3000
-
+    ```bash
+    1 http://localhost:3000```
 📝 Notes
 
     Make sure you have Node.js and npm installed before running the project.
