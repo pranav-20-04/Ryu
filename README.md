@@ -88,7 +88,7 @@ Back-end
 
 🚀 Run Locally
 
-    ```Clone the project
+    Clone the project
 
     bash
     https://github.com/pranav-20-04/Ryu.git
