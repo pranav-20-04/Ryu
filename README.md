@@ -95,8 +95,8 @@ Back-end
 
     Go to the project directory
 
-    ```bash
-    1 cd ryu```
+    bash
+    1 cd ryu
 
 
     Install dependencies
