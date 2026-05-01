@@ -101,20 +101,19 @@ Back-end
 
     Install dependencies
 
-    ```bash
-    1 npm install```
+    bash
+    1 npm install
 
 
     Start the server
 
-    ```bash
-    1 npm run dev```
+    bash
+    1 npm run dev
 
     Open your browser
 
-    ```bash
-    1 http://localhost:3000```
-    ```
+    bash
+    1 http://localhost:3000
 
 📝 Notes
 
