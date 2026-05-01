@@ -88,7 +88,7 @@ Back-end
 
 🚀 Run Locally
 
-    Clone the project
+    ```Clone the project
 
     bash
     https://github.com/pranav-20-04/Ryu.git
@@ -114,6 +114,8 @@ Back-end
 
     ```bash
     1 http://localhost:3000```
+    ```
+
 📝 Notes
 
     Make sure you have Node.js and npm installed before running the project.
